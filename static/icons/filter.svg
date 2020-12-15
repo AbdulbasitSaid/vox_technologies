@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>tune-24px copy</title>
+    <g id="User" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy-6" transform="translate(-1037.000000, -408.000000)">
+            <g id="Group" transform="translate(305.000000, 389.000000)">
+                <rect id="Rectangle-Copy-2" stroke="#C1C7D0" x="0.5" y="0.5" width="829" height="59" rx="5"></rect>
+                <g id="tune-24px-copy" transform="translate(732.000000, 19.000000)">
+                    <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                    <path d="M3,17 L3,19 L9,19 L9,17 L3,17 Z M3,5 L3,7 L13,7 L13,5 L3,5 Z M13,21 L13,19 L21,19 L21,17 L13,17 L13,15 L11,15 L11,21 L13,21 Z M7,9 L7,11 L3,11 L3,13 L7,13 L7,15 L9,15 L9,9 L7,9 Z M21,13 L21,11 L11,11 L11,13 L21,13 Z M15,9 L17,9 L17,7 L21,7 L21,5 L17,5 L17,3 L15,3 L15,9 Z" id="Shape" fill="#2AA580" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

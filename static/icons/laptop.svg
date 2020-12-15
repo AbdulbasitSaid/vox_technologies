@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Laptop-macbook</title>
+    <g id="User" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.699999988">
+        <g id="Desktop-HD-Copy-6" transform="translate(-436.000000, -705.000000)">
+            <g id="Group-4" transform="translate(140.000000, 704.000000)">
+                <g id="Laptop-macbook" transform="translate(296.000000, 1.000000)">
+                    <rect id="bound" x="0" y="0" width="20" height="20"></rect>
+                    <path d="M4.33333333,5 L15.6666667,5 C16.2189514,5 16.6666667,5.44771525 16.6666667,6 L16.6666667,14.1666667 L16.6666667,14.1666667 L3.33333333,14.1666667 L3.33333333,6 C3.33333333,5.44771525 3.78104858,5 4.33333333,5 Z" id="Combined-Shape" fill="#2AA580"></path>
+                    <rect id="Rectangle" fill="#455065" opacity="0.3" x="0.833333333" y="15" width="18.3333333" height="1" rx="0.5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

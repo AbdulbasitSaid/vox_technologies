@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Credit-card</title>
+    <g id="User" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy-6" transform="translate(-1026.000000, -705.000000)">
+            <g id="Group-4" transform="translate(140.000000, 704.000000)">
+                <rect id="Rectangle-Copy-5" x="886" y="5" width="274" height="127"></rect>
+                <g id="Credit-card" opacity="0.699999988" transform="translate(886.000000, 1.000000)">
+                    <rect id="bound" x="0" y="0" width="20" height="20"></rect>
+                    <rect id="Combined-Shape" fill="#455065" opacity="0.3" x="1.66666667" y="4.16666667" width="16.6666667" height="11.6666667" rx="2"></rect>
+                    <rect id="Rectangle-59" fill="#2AA580" x="1.66666667" y="6.66666667" width="16.6666667" height="2.5"></rect>
+                    <rect id="Rectangle-59-Copy" fill="#2AA580" opacity="0.3" x="13.3333333" y="11.6666667" width="3.33333333" height="1.66666667" rx="0.833333333"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
