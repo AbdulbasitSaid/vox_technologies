@@ -28,7 +28,7 @@
 
         <div class="w-full">
           <nuxt-link
-            to="account_success"
+            to="sentreset"
             class="bg-primary py-2 px-6 rounded text-white w-full block text-center"
             >Send Instructions</nuxt-link
           >
