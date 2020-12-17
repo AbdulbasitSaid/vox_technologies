@@ -167,39 +167,17 @@
         </div>
         <!-- end -->
         <!-- email adderess -->
-        <div class="text-sm font-thin">
-          <div class="flex flex-col">
-            Email address
-            <input
-              type="text"
-              name=""
-              id=""
-              class="border p-2 rounded w-full block"
-              placeholder="abdulbasitsaeed619@gmail.com"
-            />
-          </div>
-        </div>
+        <email-field></email-field>
         <!-- end -->
         <!-- password -->
-        <div class="text-sm font-thin">
-          <div class="flex flex-col">
-            Create password
-            <input
-              type="password"
-              name=""
-              id=""
-              class="border p-2 rounded w-full block"
-              placeholder="At least 8 characters"
-            />
-          </div>
-        </div>
+        <password-field></password-field>
         <!-- end -->
         <!-- options -->
         <div class="text-sm font-thin">
           <div class="flex flex-col">
             How did you hear about us ?
             <select name="hear" id="" class="p-3 rounded border">
-              <option value="Abdulbasit told me">through Abdulbasit</option>
+              <option value="Abdulbasit told me">From Abdulbasit</option>
               <option value="Abdulbasit told me">Google</option>
               <option value="Abdulbasit told me">Whatapp</option>
               <option value="Abdulbasit told me">Radio</option>

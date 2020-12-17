@@ -41,6 +41,7 @@
           Login with google
         </div>
         <!--  -->
+        <or></or>
         <!-- email adderess -->
         <div class="text-sm font-thin">
           <div class="flex flex-col">
