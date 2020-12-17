@@ -36,6 +36,67 @@
               <!-- end text -->
             </div>
             <!-- end step -->
+            <!-- step  -->
+            <div class="flex items-start gap-8">
+              <!-- lines -->
+              <div>
+                <div class="flex flex-col justify-center">
+                  <circle-numbers>2</circle-numbers>
+                </div>
+                <step-line></step-line>
+              </div>
+              <!-- end lines -->
+              <!-- text -->
+              <div class="space-y-2">
+                <div class="text-lg">Easy Sign Up</div>
+                <div class="font-thin">
+                  Our registration process is as seamless as our goal is to help
+                  you reach your goal.
+                </div>
+              </div>
+              <!-- end text -->
+            </div>
+            <!-- end step -->
+            <!-- step  -->
+            <div class="flex items-start gap-8">
+              <!-- lines -->
+              <div>
+                <div class="flex flex-col justify-center">
+                  <circle-numbers>3</circle-numbers>
+                </div>
+                <step-line></step-line>
+              </div>
+              <!-- end lines -->
+              <!-- text -->
+              <div class="space-y-2">
+                <div class="text-lg">Send Quote</div>
+                <div class="font-thin">
+                  Send direct messages to merchant for pricing.
+                </div>
+              </div>
+              <!-- end text -->
+            </div>
+            <!-- end step -->
+            <!-- step  -->
+            <div class="flex items-start gap-8">
+              <!-- lines -->
+              <div>
+                <div class="flex flex-col justify-center">
+                  <circle-numbers>4</circle-numbers>
+                </div>
+              </div>
+              <!-- end lines -->
+              <!-- text -->
+              <div class="space-y-2">
+                <div class="text-lg">Make Payment</div>
+                <div class="font-thin">
+                  Pay merchant easily and track delivery to your desired
+                  destination.
+                </div>
+              </div>
+              <!-- end text -->
+            </div>
+            <!-- end step -->
           </div>
           <!-- end step lines -->
           <div class="flex flex-col"></div>
