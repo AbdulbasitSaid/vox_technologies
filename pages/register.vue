@@ -17,26 +17,23 @@
           <!-- step lines -->
           <div class="flex flex-col">
             <!-- step  -->
-            <div class="flex flex-col justify-center">
-              <circle-numbers>1</circle-numbers>
-            </div>
-            <step-line></step-line>
-            <!-- end step -->
-            <!-- step  -->
-            <div class="flex flex-col justify-center">
-              <circle-numbers>2</circle-numbers>
-            </div>
-            <step-line></step-line>
-            <!-- end step -->
-            <!-- step  -->
-            <div class="flex flex-col justify-center">
-              <circle-numbers>3</circle-numbers>
-            </div>
-            <step-line></step-line>
-            <!-- end step -->
-            <!-- step  -->
-            <div class="flex flex-col justify-center">
-              <circle-numbers>4</circle-numbers>
+            <div class="flex items-start gap-8">
+              <!-- lines -->
+              <div>
+                <div class="flex flex-col justify-center">
+                  <circle-numbers>1</circle-numbers>
+                </div>
+                <step-line></step-line>
+              </div>
+              <!-- end lines -->
+              <!-- text -->
+              <div class="space-y-2">
+                <div class="text-lg">Search Anything</div>
+                <div class="font-thin">
+                  Hard to find ? try searching for it on our platform.
+                </div>
+              </div>
+              <!-- end text -->
             </div>
             <!-- end step -->
           </div>
