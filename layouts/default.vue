@@ -4,7 +4,9 @@
       class="flex py-6 px-12 items-center justify-between text-sm border-b-2"
     >
       <div>
-        <img src="/logo.svg" alt="" />
+        <nuxt-link to="/">
+          <img src="/logo.svg" alt="" />
+        </nuxt-link>
       </div>
       <!--  -->
       <div class="flex justify-center items-center divide-x gap-2">
@@ -14,8 +16,10 @@
       </div>
       <!--  -->
       <div class="flex items-center gap-4">
-        <div>Login</div>
-        <div class="bg-primary py-2 px-4 text-white rounded">Register</div>
+        <div><nuxt-link to="/login"> Login </nuxt-link></div>
+        <nuxt-link to="register">
+          <div class="bg-primary py-2 px-4 text-white rounded">Register</div>
+        </nuxt-link>
       </div>
     </div>
 
