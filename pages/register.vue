@@ -139,17 +139,30 @@
           Sign Up with google
         </div>
         <!--  -->
+        <or></or>
         <!-- email adderess -->
         <div class="text-sm font-thin">
-          <div class="flex flex-col">
-            Full Name
-            <input
-              type="text"
-              name=""
-              id=""
-              class="border p-2 rounded w-full block"
-              placeholder="abdulbasit Said"
-            />
+          <div class="flex items-center w-full justify-evenly">
+            <div class="flex flex-col">
+              <p>First Name</p>
+              <input
+                type="text"
+                name=""
+                id=""
+                class="border p-2 rounded w-full"
+                placeholder="abdulbasit"
+              />
+            </div>
+            <div class="flex flex-col">
+              <p>Last Name</p>
+              <input
+                type="text"
+                name=""
+                id=""
+                class="border p-2 rounded w-full"
+                placeholder="Said"
+              />
+            </div>
           </div>
         </div>
         <!-- end -->
@@ -167,7 +180,7 @@
           </div>
         </div>
         <!-- end -->
-        <!-- email adderess -->
+        <!-- password -->
         <div class="text-sm font-thin">
           <div class="flex flex-col">
             Create password
@@ -181,7 +194,33 @@
           </div>
         </div>
         <!-- end -->
-
+        <!-- options -->
+        <div class="text-sm font-thin">
+          <div class="flex flex-col">
+            How did you hear about us ?
+            <select name="hear" id="" class="p-3 rounded border">
+              <option value="Abdulbasit told me">through Abdulbasit</option>
+              <option value="Abdulbasit told me">Google</option>
+              <option value="Abdulbasit told me">Whatapp</option>
+              <option value="Abdulbasit told me">Radio</option>
+            </select>
+          </div>
+        </div>
+        <!-- end -->
+        <!-- if others -->
+        <div class="text-sm font-thin">
+          <div class="flex flex-col">
+            If others please state
+            <input
+              type="text"
+              name=""
+              id=""
+              class="border p-2 rounded w-full block"
+              placeholder=""
+            />
+          </div>
+        </div>
+        <!-- end if others -->
         <div class="w-full">
           <nuxt-link
             to="verification"
@@ -190,9 +229,11 @@
             Create an Account</nuxt-link
           >
         </div>
-        <div class="font-thin">
-          By signing up, you are accepting Stockcheck’s privacy policy and
-          agreeing to be bound by Stockcheck's Terms of Service
+        <div class="font-thin text-center">
+          By signing up, you are accepting Stockcheck’s
+          <span class="text-primary">privacy policy</span> and agreeing to be
+          bound by Stockcheck's
+          <span class="text-primary">Terms of Service.</span>
         </div>
       </div>
       <!-- end form -->
